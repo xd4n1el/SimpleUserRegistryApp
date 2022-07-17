@@ -18,5 +18,5 @@
   ### Tools used:
   - JavaScript;
   - React.js;
-  - Styled Components
+  - Styled Components;
   - React Funcional Select;
