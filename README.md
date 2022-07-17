@@ -15,3 +15,8 @@
   ### Invalid action: 
   - You can't see a list with no users;
   
+  ### Tools used:
+  - JavaScript;
+  - React.js;
+  - Styled Components
+  - React Funcional Select;
